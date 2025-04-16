@@ -1,0 +1,14 @@
+[
+    {
+        "photo":"pic/fv/fv2.jpg",
+        "adress":"Адрес: Люблинский сквер",
+        "description":"Описание: Хорошая площадка, сетка не порвана и нормальной высоты, правильная разметка, а также хорошее покрытие",
+        "place":"/pic/websites/placeholder.png",
+        "description_img":"/pic/websites/description.png",
+        "line":"hr",
+        "liked":false,
+        "share":"/pic/websites/share1.png",
+        "word":"Продолжить",
+        "link":"html/volleyball/lublinofvcard1.html"
+    }
+]

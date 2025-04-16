@@ -1,0 +1,26 @@
+[
+    {
+        "photo":"pic/fb/fb3.jpg",
+        "adress":"улица Верхние поля 47к1",
+        "description":"Описание: В этой площадке имеется забор,чтобы мяч не вылетал за площадку. Также на этой площадке есть хорошое покрытие и имеетмя более менее нормальное кольцо",
+        "place":"/pic/websites/placeholder.png",
+        "description_img":"/pic/websites/description.png",
+        "line":"hr",
+        "liked":false,
+        "share":"/pic/websites/share1.png",
+        "word":"Продолжить",
+        "link":"html/basketball/lublinofbcard1.html"
+    },
+    {
+        "photo":"pic/fb/fb4.jpg",
+        "adress":"Краснодарская улица, 74к2",
+        "description":"Описание: Хорошая площадка, качественное покрытие, но низкие кольца и неправильная разметка",
+        "place":"/pic/websites/placeholder.png",
+        "description_img":"/pic/websites/description.png",
+        "line":"hr",
+        "liked":false,
+        "share":"/pic/websites/share1.png",
+        "word":"Продолжить",
+        "link":"html/basketball/lublinofbcard2.html"
+    }
+]

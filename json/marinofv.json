@@ -1,0 +1,14 @@
+[
+    {
+        "photo":"pic/fv/fv1.jpg",
+        "adress":"Адрес: Москва, парк имени 850-летия города Москвы",
+        "description":"Описание: Очень хорошое покрытие для волейбола, обеспечивающее хорошое сцепление с обувью, чёткая и видимая разметка, и площадка огорожена забором.",
+        "place":"/pic/websites/placeholder.png",
+        "description_img":"/pic/websites/description.png",
+        "line":"hr",
+        "liked":false,
+        "share":"/pic/websites/share1.png",
+        "word":"Продолжить",
+        "link":"html/volleyball/marinofvcard1.html"
+    }
+]

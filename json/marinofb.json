@@ -1,0 +1,110 @@
+[
+    {
+        "photo":"pic/fb/fb5.jpg",
+        "adress":"улица Верхние поля 40к2",
+        "description":"Описание: Так себе площадка, но можно поиграть с друзьями, или для тренировки, покрытие - ризина, но местами оно оторванно, низкие кольци и маленький щит",
+        "place":"/pic/websites/placeholder.png",
+        "description_img":"/pic/websites/description.png",
+        "line":"hr",
+        "liked":false,
+        "share":"/pic/websites/share1.png",
+        "word":"Продолжить",
+        "link":"html/basketball/marinofbcard1.html"
+    },
+    {
+        "photo":"pic/fb/fb6.jpg",
+        "adress":"Белореченская улица, 47к1",
+        "description":"Описание: Неплохая площадка, подойдёт для тренировок и игр 4х4, разметка правильная, покрытие резиновое без повреждений, ноот щита и кольца плохой отскок, но играть можно и даже комфортно",
+        "place":"/pic/websites/placeholder.png",
+        "description_img":"/pic/websites/description.png",
+        "line":"hr",
+        "liked":false,
+        "share":"/pic/websites/share1.png",
+        "word":"Продолжить",
+        "link":"html/basketball/marinofbcard2.html"
+    },
+    {
+        "photo":"pic/fffb/fffb2.jpg",
+        "adress":"5-й микрорайон, жилой район Марьинский Парк, район Марьино",
+        "description":"Описание: Площадка подходит для отработки дриблинга, так как есть ровное резиновое покрытие. Также площадка подойдт для отработки бросков, так как имеется неплохое кольцо, а также сетка над забором, чтобы мяч не вылетал",
+        "place":"/pic/websites/placeholder.png",
+        "description_img":"/pic/websites/description.png",
+        "line":"hr",
+        "liked":false,
+        "share":"/pic/websites/share1.png",
+        "word":"Продолжить",
+        "link":"html/basketball/marinofbcard3.html"
+    },
+    {
+        "photo":"pic/fb/fb2.jpg",
+        "adress":"жилой район Марьинский Парк, район Марьино",
+        "description":"Описание: Превосходная площадка для тренировок и проведения игр, замечательное покрытие и хорошие кольца, но есть и минус, разметка непонятна и неправильна",
+        "place":"/pic/websites/placeholder.png",
+        "description_img":"/pic/websites/description.png",
+        "line":"hr",
+        "liked":false,
+        "share":"/pic/websites/share1.png",
+        "word":"Продолжить",
+        "link":"html/basketball/marinofbcard4.html"
+    },
+    {
+        "photo":"pic/fffb/fffb5.jpg",
+        "adress":"ул. Перерва, 52",
+        "description":"Описание: Неплохая площадка для тренировок и игр с товарищами, кольца правильные и хорошие, резиновое покрытие с верной разметкой" ,
+        "place":"/pic/websites/placeholder.png",
+        "description_img":"/pic/websites/description.png",
+        "line":"hr",
+        "liked":false,
+        "share":"/pic/websites/share1.png",
+        "word":"Продолжить",
+        "link":"html/basketball/marinofbcard5.html"
+    },
+    {
+        "photo":"pic/fffb/fffb3.jpg",
+        "adress":"Люблинская ул., 159, корп. 1",
+        "description":"Описание: Среднего качества площадка с двумя кольцами, подходит для тренировок и стритбола, резиновое покрытия, но местами отсутствует",
+        "place":"/pic/websites/placeholder.png",
+        "description_img":"/pic/websites/description.png",
+        "line":"hr",
+        "liked":false,
+        "share":"/pic/websites/share1.png",
+        "word":"Продолжить",
+        "link":"html/basketball/marinofbcard6.html"
+    },
+    {
+        "photo":"pic/fffb/fffb4.jpg",
+        "adress":"Поречная улица, 9",
+        "description":"Описание: Так себе площадка, не очень подходет для игр и отработки бросков, так как кольца низкие, но детям будет удобно",
+        "place":"/pic/websites/placeholder.png",
+        "description_img":"/pic/websites/description.png",
+        "line":"hr",
+        "liked":false,
+        "share":"/pic/websites/share1.png",
+        "word":"Продолжить",
+        "link":"html/basketball/marinofbcard7.html"
+    },
+    {
+        "photo":"pic/fffb/fffb1.jpg",
+        "adress":"Поречная улица, 3к2",
+        "description":"Описание: Хорошее поля для тренировок и игр, ровное резиновое покрытие, но нет разметки",
+        "place":"/pic/websites/placeholder.png",
+        "description_img":"/pic/websites/description.png",
+        "line":"hr",
+        "liked":false,
+        "share":"/pic/websites/share1.png",
+        "word":"Продолжить",
+        "link":"html/basketball/marinofbcard8.html"
+    },
+    {
+        "photo":"pic/fffb/fffb6.jpg",
+        "adress":"Поречная улица, 17/22",
+        "description":"Описание: Хорошее ровное резиновое покрытие, но нет разметки. Неплохие кольца, но низкие, подходит для детей",
+        "place":"/pic/websites/placeholder.png",
+        "description_img":"/pic/websites/description.png",
+        "line":"hr",
+        "liked":false,
+        "share":"/pic/websites/share1.png",
+        "word":"Продолжить",
+        "link":"html/basketball/marinofbcard9.html"
+    }
+]

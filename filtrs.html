@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="styles/filtrs.css">
+</head>
+<body>
+    <div class="web-sites">
+        <div class="container-logo">
+            <div class="logo">
+                <a href="filtrs.html"><img src="/pic/websites/logo.svg" alt="Логотип"></a>
+            </div>
+            <div class="registration">
+                <a href="registration.html"><img src="/pic/websites/log_in.png" alt="Login"></a>
+                <a href="registration.html" class="registration-text">LOG IN</a>
+            </div>
+            <div class="contact_ us">
+                <a href="contact_us.html" class="contact_us">Contact Us</a>
+            </div>
+            <div class="profile">
+                <a href="profile.html"><img src="/pic/websites/profile.png"></a>
+                <a href="profile.html" class="profile-text">Profile</a>
+            </div>
+            <div class="language">
+                <img src="/pic/websites/language.png">
+                <div class="language-text">
+                    <p>RU/ENG</p>
+                </div>
+            </div>
+            <div class="feedback">
+                <a href="feedback.html" class="feedback">Leave a review</a>
+            </div>    
+        </div>
+        <div class="words">
+            <h1>
+            <span class="black-text">WELCOME TO
+                <br> OUR </span>
+            <span class="light-text">SPORT FINDER</span>
+            <br>
+            <span class="black-text1">WORLD</span>
+            </h1>
+            <h3>
+                <span class="gray-text">Найди идеальную спортивную площадку за секунды! Футбол, баскетбол,<br>
+                    волейбол и другие виды спорта – всё в одном месте! Фильтры по типу <br> 
+                    покрытия,освещению и доступности. Удобный поиск по району и условиям <br>
+                    аренды. Выбирай, бронируй, играй!</span>
+            </h3>
+            <button class="scroll-button" onclick="enableScrollAndMove()">Продолжить</button>
+        </div>
+        <div class="container-connection">
+            <div class="telegram">
+                <a href="telegram"><img src="/pic/websites/telegram.png"></a>
+            </div>
+            <div class="instagram">
+                <a href="instagram"><img src="/pic/websites/instagram.png"></a>
+            </div>
+            <div class="vk">
+                <a href="vk"><img src="/pic/websites/vk.png"></a>
+            </div>
+            <div class="phone">
+                <a href="phone"><img src="/pic/websites/phone.png"></a>
+            </div>
+        </div>   
+    </div>
+    <div class="container">
+        <div class="filters">     
+            <h1 class="h1">Местоположение</h1>
+            <div class="search-tip">
+                <form action="search" method="get">
+                <input type="text" name="query" placeholder="Введите район">
+             </form>  
+            </div>
+            <div class="tip platforms">
+                <h1 class="text1">Тип площадки</h1>
+                <div class="tips">
+                <label for="футбол">
+                   <input type="radio" id="футбол" name="спорт">Футбол
+                </label>
+                <label for="баскетбол">
+                  <input type="radio" id="баскетбол" name="спорт">Баскетбол
+                </label>
+                <label for="волейбол">
+                    <input type="radio" id="волейбол" name="спорт">Волейбол
+                 </label>
+                </div>
+            </div>
+            <div class="tip platforms">
+                <h1 class="text2">Доступ к площадке</h1>
+                <div class="dostup">
+                    <label for="бесплатный">
+                       <input type="radio" id="бесплатный" name="доступ">Бесплатный
+                     </label>
+                    <label for="платный">
+                       <input type="radio" id="платный" name="доступ">Платный
+                    </label>
+                </div>
+            </div>
+            <div class="tip platforms">
+               <h1 class="text3">Дополнительные функции</h1>
+               <div class="fynction">
+                <label for="Освещение">
+                   <input type="checkbox" name="функции[]" id="освещение">
+                   <label for="освещение">Освещение</label>
+                </label>
+                <label for="раздевалка">
+                     <input type="checkbox" name="функции[]" id="раздевалка">
+                     <label for="раздевалка">Раздевалка</label>
+                </label>
+                <label for="наличия инвентаря">
+                    <input type="checkbox" name="функции[]" id="инвентарь">
+                    <label for="инвентарь">Наличие инвентаря</label>
+                </label>
+                </div>
+            </div>
+            <div class="search">
+                <button id="поиск" type="button" class="button"><span class="text4">Поиск</span></button>
+            </div>
+        </div>
+    </div>
+    <script src="js/web-sites.js"></script>
+    <script src="js/filters.js"></script>
+    
+</body>
+</html>
