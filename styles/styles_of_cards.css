@@ -1,18 +1,17 @@
-body{
+body {
   font-family:'Montserrat ExtraBold', Tahoma, Geneva, Verdana, sans-serif;
   font-weight: 400;
-  margin: 0; 
-  padding: 0;     
+  margin: 0;
+  padding: 0;
   overflow-x: hidden;
   padding-top: 140px;
-  height: 100vh; 
-  overflow: visible;
   flex-direction: column;
   justify-content: center;
   align-items: center;
   display: flex;
   background-color:#fffff0;
 }
+
 .container-logo{
   position:fixed;
   top:0;
@@ -127,14 +126,14 @@ body{
   font-weight:bold;
 }
 
-.word{
+.results-word{
   font-size: 50px;
   font-weight: bold;
   text-align: left;
   color:black;
-  position:relative;
-  left:27%;
-  top:280px;
+  position:absolute;
+  left: 35%;
+  top:25%;
 }
 
 .button{
@@ -148,10 +147,10 @@ body{
   border: 2px solid black;
   border-radius: 5px;
   position: relative;
-  width:100%;
+  width:150%;
   height:365px;
-  top:400px;
-  left:0%;
+  top:200px;
+  right:24%;
   margin-bottom: 80px;
   background-color: white;
  
@@ -170,21 +169,21 @@ img{
 }
 
 h3{
-  position: relative;
-  left:58%;
-  top:-340px;
+  position: absolute;
+  right:10%;
+  top:9%;
   font-size:19px;
   word-wrap: break-word; 
   overflow-wrap: break-word;
   white-space: normal;
-  max-width: 26vw;
+  max-width:20vw;
   
 }
 
 h4{
-  position:relative;
-  left:58%;
-  top:-300px;
+  position:absolute;
+  right:6px;
+  top:100px;
   font-size: 19px;
   word-wrap: break-word; 
   overflow-wrap: break-word;
@@ -195,30 +194,31 @@ h4{
 .place-img{
   width:3%;
   height:auto;
-  position:relative;
-  left:53%;
-  top:-137%;
+  position:absolute;
+  top:50px;
+  right:415px;
+  
 }
 
 .description-img{
   width:3%;
   height:auto;
-  position:relative;
-  left:50%;
-  top:-102%;
+  position:absolute;
+  right:415px;
+  top:150px;
 }
 
 .card-line{
   width:42%;
-  position:relative;
-  left:25%;
-  top:-330px;
+  position:absolute;
+  right:40px;
+  top:260px;
 }
 
 .like {
   position: absolute;
   top: 286px;
-  right: 400px;
+  right: 370px;
   cursor: pointer;
   width: 40px;
   height: 40px;
@@ -242,9 +242,9 @@ h4{
 .card-share{
   width:3.5%;
   height:auto;
-  position: relative;
-  left:69%;
-  top:-317px;
+  position: absolute;
+  top:290px;
+  right: 270px;
 }
 
 .button-continue{
@@ -260,7 +260,7 @@ h4{
 h5{
   position:relative;
   left:80%;
-  top:-380px;
+  top: -105px;
   font-size: 19px;
   color:#fb7617 ;
 }
