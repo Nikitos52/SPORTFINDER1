@@ -10,6 +10,7 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    background-color: #fffff0;
 }
 .container-logo{
     position:fixed;
@@ -61,11 +62,11 @@ body{
 }
 
 .profile img{
-    width: 2%;
+    width: 3%;
     height: auto;
     position: absolute;
     left: 90%;
-    top:34%;
+    top:30%;
 }
 
 .profile img:hover{
@@ -131,8 +132,8 @@ body{
     text-align: left;
     color:black;
     position:relative;
-    left:-15%;
-    top:-30px;
+    left:-13.5%;
+    top:-25px;
 
 }
 .light-text{
@@ -141,8 +142,8 @@ body{
     text-align: left;
     color:#fb7617;
     position:relative;
-    left:-15%;
-    top:-30px;
+    left:-13.5%;
+    top:-25px;
 }
 .black-text1{
     font-size: 70px;
@@ -150,8 +151,8 @@ body{
     text-align: left;
     color:black;
     position:relative;
-    left:-15%;
-    top:-30px;
+    left:-13.5%;
+    top:-25px;
 }
 
 .gray-text{
@@ -164,74 +165,28 @@ body{
     color:rgb(19, 19, 19);
 
 }
+.card1-img img{
+    width:40%;
+    height: 80%;
+    position: absolute;
+    top:19%;
+    right:5%;
+}
 
-.container-connection{
+.card2-img img{
+    width:40%;
+    height:80%;
     position:absolute;
-    border:2px solid rgb(0, 0, 0);
-    border-radius: 10px;
-    color:#fb7617;
-    box-shadow:0px 4px 8px rgba(0.2, 0, 0, 0.1);;
-    width:660px;
-    height:90px;
-    position: fixed;
-    top:645px;
-    left:450px;
-    z-index:100;
-    opacity: 1;
-    background-color: #fff;
-    justify-content: space-around;
+    top:120%;
+    right:65%;
 }
 
-.telegram img{
-    width: 6%;
-    height: auto;
-    position: relative;
-    top:15px;
-    left:16%; 
-}
-
-.telegram img:hover{
-    box-shadow: 0px 4px 8px rgb(35, 35, 35, 0.1);
-    transform: translateY(-3px);
-}
-
-.instagram img{
-    width: 6%;
-    height: auto;
-    position: absolute;
-    top:15px;
-    left:36%;
-}
-
-.instagram img:hover{
-    box-shadow: 0px 4px 8px rgb(35, 35, 35, 0.1);
-    transform: translateY(-3px);
-}
-
-.vk img{
-    width: 6%;
-    height: auto;
-    position: absolute;
-    top:15px;
-    left:56%; 
-}
-
-.vk img:hover{
-    box-shadow: 0px 4px 8px rgba(35, 35, 35, 0.1);
-    transform: translateY(-3px);
-}
-
-.phone img{
-    width: 6%;
-    height: auto;
-    position: absolute;
-    top:15px;
-    left:76%;
-}
-
-.phone img:hover{
-    box-shadow: 0px 4px 8px rgb(35, 35, 35, 0.1);
-    transform: translateY(-3px);
+.card3-img img{
+    width:30%;
+    height:60%;
+    position:absolute;
+    top:130%;
+    right:-3%;
 }
 
 .scroll-button {
@@ -260,9 +215,9 @@ body{
     border-radius: 300px;
     background-color: white;
     position: absolute; 
-    left:400px;
-    top:800px;
-    width:780px;
+    left:390px;
+    top:850px;
+    width:740px;
     height: 570px;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.8);
     z-index:10;
@@ -279,7 +234,7 @@ body{
 h1{
     position:relative;
     top:10px;
-    left:250px;
+    left:225px;
    
 }
 .search-tip{
@@ -322,19 +277,19 @@ hr
 .text1 {
     position: relative;
     top: 10px;
-    left:265px;
+    left:250px;
 }
 
 .text2{
     position: relative;
     top:50px;
-    left:250px;
+    left:210px;
 }
 
 .text3{
     position: relative;
     top:50px;
-    left:180px; 
+    left:160px; 
 }
 
 .fynction{

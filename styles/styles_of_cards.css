@@ -5,6 +5,7 @@ body {
   padding: 0;
   overflow-x: hidden;
   padding-top: 140px;
+  height: 200vw;
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -30,7 +31,7 @@ body {
   height:25%;
   position: relative;
   left: 20px;
-  top:-5px;
+  top:-0px;
 }
 
 .registration img{
@@ -108,7 +109,7 @@ body {
 .feedback{
  position: absolute;
  left:38%;
- top:24px;
+ top:25px;
  font-size:16px;
  color:black;
  text-decoration: none;
@@ -119,7 +120,7 @@ body {
 .contact_us{
   position: absolute;
   left:28%;
-  top:49px;
+  top:50px;
   font-size:16px;
   color:black;
   text-decoration: none;
@@ -171,12 +172,15 @@ img{
 h3{
   position: absolute;
   right:10%;
-  top:9%;
+  top:5%;
   font-size:19px;
   word-wrap: break-word; 
   overflow-wrap: break-word;
   white-space: normal;
   max-width:20vw;
+  text-align: left;
+  justify-content: center; 
+  align-items: center;
   
 }
 
@@ -188,14 +192,14 @@ h4{
   word-wrap: break-word; 
   overflow-wrap: break-word;
   white-space: normal;
-  max-width: 26vw;
+  max-width: 25vw;
 }
 
 .place-img{
   width:3%;
   height:auto;
   position:absolute;
-  top:50px;
+  top:35px;
   right:415px;
   
 }
@@ -212,12 +216,12 @@ h4{
   width:42%;
   position:absolute;
   right:40px;
-  top:260px;
+  top:280px;
 }
 
 .like {
   position: absolute;
-  top: 286px;
+  top: 305px;
   right: 370px;
   cursor: pointer;
   width: 40px;
@@ -243,7 +247,7 @@ h4{
   width:3.5%;
   height:auto;
   position: absolute;
-  top:290px;
+  top:308px;
   right: 270px;
 }
 
@@ -260,7 +264,7 @@ h4{
 h5{
   position:relative;
   left:80%;
-  top: -105px;
+  top: -89px;
   font-size: 19px;
   color:#fb7617 ;
 }
