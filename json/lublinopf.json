@@ -1,14 +1,14 @@
 [
     {
         "photo":"pic/pf/pf1.jpg",
-        "adress":"Адрес: Тихорецкий бул., вл1, г.Москва",
+        "adress":"Тихорецкий бул., вл1, г.Москва",
         "description":"Замечательная крытая площадка для тренировак всей командой и проведения матчей",
         "place":"/pic/websites/placeholder.png",
         "description_img":"/pic/websites/description.png",
         "line":"hr",
         "liked":false,
         "share":"/pic/websites/share1.png",
-        "word":"Продолжить",
+        "continueButton":"Продолжить",
         "link":"html/football/lublinopfcard1.html"
     }
 ]

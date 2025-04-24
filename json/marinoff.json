@@ -8,7 +8,7 @@
         "line":"hr",
         "liked":false,
         "share":"/pic/websites/share1.png",
-        "word":"Продолжить",
+        "continueButton":"Продолжить",
         "link":"html/football/marinoffcard1.html"
     },
     {
@@ -20,7 +20,7 @@
         "line":"hr",
         "liked":false,
         "share":"/pic/websites/share1.png",
-        "word":"Продолжить",
+        "continueButton":"Продолжить",
         "link":"html/football/marinoffcard2.html"
     },
     {
@@ -32,7 +32,7 @@
         "line":"hr",
         "liked":false,
         "share":"/pic/websites/share1.png",
-        "word":"Продолжить",
+        "continueButton":"Продолжить",
         "link":"html/football/marinoffcard3.html"
     },
     {
@@ -44,7 +44,7 @@
         "line":"hr",
         "liked":false,
         "share":"/pic/websites/share1.png",
-        "word":"Продолжить",
+        "continueButton":"Продолжить",
         "link":"html/football/marinoffcard4.html"
     },
     {
@@ -56,7 +56,7 @@
         "line":"hr",
         "liked":false,
         "share":"/pic/websites/share1.png",
-        "word":"Продолжить",
+        "continueButton":"Продолжить",
         "link":"html/football/marinoffcard5.html"
     },
     {
@@ -68,7 +68,7 @@
         "line":"hr",
         "liked":false,
         "share":"/pic/websites/share1.png",
-        "word":"Продолжить",
+        "continueButton":"Продолжить",
         "link":"html/football/marinoffcard6.html"
     },
     {
@@ -80,7 +80,7 @@
         "line":"hr",
         "liked":false,
         "share":"/pic/websites/share1.png",
-        "word":"Продолжить",
+        "continueButton":"Продолжить",
         "link":"html/football/marinoffcard7.html"
     },
     {
@@ -92,7 +92,7 @@
         "line":"hr",
         "liked":false,
         "share":"/pic/websites/share1.png",
-        "word":"Продолжить",
+        "continueButton":"Продолжить",
         "link":"html/football/marinoffcard8.html"
     },
     {
@@ -104,7 +104,7 @@
         "line":"hr",
         "liked":false,
         "share":"/pic/websites/share1.png",
-        "word":"Продолжить",
+        "continueButton":"Продолжить",
         "link":"html/football/marinoffcard9.html"
     },
     {
@@ -116,7 +116,7 @@
         "line":"hr",
         "liked":false,
         "share":"/pic/websites/share1.png",
-        "word":"Продолжить",
+        "continueButton":"Продолжить",
         "link":"html/football/marinoffcard10.html"
     },
     {
@@ -128,7 +128,7 @@
         "line":"hr",
         "liked":false,
         "share":"/pic/websites/share1.png",
-        "word":"Продолжить",
+        "continueButton":"Продолжить",
         "link":"html/football/marinoffcard11.html"
     },
     {
@@ -140,7 +140,7 @@
         "line":"hr",
         "liked":false,
         "share":"/pic/websites/share1.png",
-        "word":"Продолжить",
+        "continueButton":"Продолжить",
         "link":"html/football/marinoffcard12.html"
     }
 ]

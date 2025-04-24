@@ -2,13 +2,13 @@
     {
         "photo":"pic/ff/ff4.jpg",
         "adress":"улица Верхние поля 47к1",
-        "description":" Небольшое уличное поле для мини-футбола с резиновым покрытием",
+        "description":"Небольшое уличное поле для мини-футбола с резиновым покрытием",
         "place":"/pic/websites/placeholder.png",
         "description_img":"/pic/websites/description.png",
         "line":"hr",
         "liked":false,
         "share":"/pic/websites/share1.png",
-        "word":"Продолжить",
+        "continueButton":"Продолжить",
         "link":"html/football/lublinoffcard1.html"
     },
     {
@@ -20,7 +20,7 @@
         "line":"hr",
         "liked":false,
         "share":"/pic/websites/share1.png",
-        "word":"Продолжить",
+        "continueButton":"Продолжить",
         "link":"html/football/lublinoffcard2.html"
     }
 ]

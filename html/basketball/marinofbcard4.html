@@ -1,40 +1,106 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
-    <link rel="stylesheet" href="/styles/free_style.css">
+    <link rel = "stylesheet" href = "/styles/free_style.css">
 </head>
 <body>
-    <div class="logo">
-        <a href="/filtrs.html"><img src="/pic/logo.svg" class="logop" alt="Логотип" width="1050" height="250"></a>
-    </div>
-    <div class="background"></div>
-    <div class="container2">
-        <div>
-            <a href="/marinofb.html">
-            <button type="submit" class="button">Назад</button>
-            </a>
+    <div class="web-sites">
+        <div class="container-logo">
+            <div class="logo">
+                <a href="/filtrs.html"><img src="/pic/websites/logo.svg" alt="Логотип"></a>
+            </div>
+            <div class="registration">
+                <a href="registration.html"><img src="/pic/websites/log_in.png" alt="Login"></a>
+                <a href="registration.html" class="registration-text">LOG IN</a>
+            </div>
+            <div class="contact_ us">
+                <a href="contact_us.html" class="contact_us">Contact Us</a>
+            </div>
+            <div class="profile">
+                <a href="profile.html"><img src="/pic/websites/profile.png"></a>
+                <a href="profile.html" class="profile-text">Profile</a>
+            </div>
+            <div class="language">
+                <img src="/pic/websites/language.png">
+                <div class="language-text">
+                    <p>RU/ENG</p>
+                </div>
+            </div>
+            <div class="feedback">
+                <a href="feedback.html" class="feedback">Leave a review</a>
+            </div>    
         </div>
-            <div class="platforms">
-                <img src="/pic/fb/fb2.jpg" alt="Фото футбольной площадки">
-            </div>
-            <div class="description">
-                <h3>Описание:
-                    Превосходная площадка для тренировок и проведения игр, замечательное покрытие и хорошие кольца, но есть и минус, разметка непонятна и неправильна
-            </h3>
-            </div>
-            <div class="adress">
-                <h3>Адрес: жилой район Марьинский Парк, район Марьино</h3>
-            </div>
-        <div class="otziv">
-        <h2><span class="clovaotziv">Отзывы</span></h2>
-            <form action="/search" method="get">
-                <input type="text" name="query" placeholder="Оставить комментарий">
-                <button type="submit">Отправить</button>
-            </form>
+        <div class="back">
+            <a href="/marinofb.html"><button id="назад" type="button" class="button"><span class="text4">Назад</span></button></a>
         </div>
+        <div class="card-container">
+            <div class="card-img">
+                <img src="/pic/fb/fb2.jpg">
+            </div>
+            <div class="adress"><h4>жилой район Марьинский Парк, район Марьино</h4></div>
+            <div class="place_img">
+                <img src="/pic/websites/placeholder.png">
+            </div>
+            <div class="description"><h4>Превосходная площадка для тренировок и проведения игр, замечательное покрытие и хорошие кольца, но есть и минус, разметка непонятна и неправильна</h4></div>
+            <div class="description_img">
+                <img src="/pic/websites/description.png">
+            </div>
+            <div class="line">
+                <hr>
+            </div>
+            <div class="like" onclick="toggleLike(this)">
+                <svg class="heart-icon" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z" 
+                          stroke-width="2"/>
+                </svg>
+            </div>
+            <div class="share">
+                <img src="/pic/websites/share1.png">
+            </div>
+        </div>
+        <div class="word"><span class="word">Отзывы</span></div>
+        <div class="card-comment">
+            <div class="score">
+                <div class="figure">0,0</div>
+                <div class="rating">
+                    <span class="star" data-value="1">★</span>
+                    <span class="star" data-value="2">★</span>
+                    <span class="star" data-value="3">★</span>
+                    <span class="star" data-value="4">★</span>
+                    <span class="star" data-value="5">★</span>
+                  </div>
+                  <div class="number">0 оценок</div>
+            </div>
+            <div class="leave_a_rating">
+                <span class="word-rating">Поставьте нам оценку</span>
+                <div class="button-rating">
+                    <button id="отзыв" type="button" class="button"><span class="word-button">Оставить отзыв</span></button>
+                </div>
+            </div>
+            <div class="card-line"><hr></div>
+            <div class="profile-comment">
+                <img src="/pic/websites/profile.png">
+            </div>
+            <div class="name">extazyyy</div>
+            <div class="data">23 апреля 2025</div>
+            <div class="stars-comment">
+                <span class="star1" data-value1="1">★</span>
+                <span class="star1" data-value1="2">★</span>
+                <span class="star1" data-value1="3">★</span>
+                <span class="star1" data-value1="4">★</span>
+                <span class="star1" data-value1="5">★</span>
+            </div>
+            <div class="word-comment">
+                Отличная площадка!Качественное покрытие, ровные кольца и удобная разметка.
+                <br>
+                Всегда чисто и ухоженно.Играть одно удовольствие! Рекомендую!
+            </div>   
+        </div>    
     </div>
+    <script src="/js/like.js"></script>
+    <script src="/js/stars.js"></script>
 </body>
-</html>
+</html>   

@@ -62,19 +62,19 @@ body{
 }
 
 .profile img{
-    width: 3%;
+    width: 2%;
     height: auto;
     position: absolute;
     left: 90%;
-    top:30%;
-}
-
-.profile img:hover{
+    top:34%;
+  }
+  
+  .profile img:hover{
     box-shadow:0px 4px 8px(35,35,35,0.1px);
     transform: translateY(-3px);
-}
-
-.profile-text{
+  }
+  
+  .profile-text{
     position: absolute;
     left:93%;
     top:39%;
@@ -82,12 +82,12 @@ body{
     color: black;
     text-decoration: none; 
     font-weight: bold;
-}
-
-.profile-text:hover{
+  }
+  
+  .profile-text:hover{
     box-shadow:0px 4px 8px(35,35,35,0.1px);
     transform: translateY(-3px);
-}
+  }
 
 .language img{
     width: 2%;
@@ -133,7 +133,7 @@ body{
     color:black;
     position:relative;
     left:-13.5%;
-    top:-25px;
+    top:-5px;
 
 }
 .light-text{
@@ -143,7 +143,7 @@ body{
     color:#fb7617;
     position:relative;
     left:-13.5%;
-    top:-25px;
+    top:-5px;
 }
 .black-text1{
     font-size: 70px;
@@ -152,7 +152,7 @@ body{
     color:black;
     position:relative;
     left:-13.5%;
-    top:-25px;
+    top:-5px;
 }
 
 .gray-text{
@@ -161,7 +161,7 @@ body{
     text-align: left;
     position:relative;
     left:25px;
-    top:15px;
+    top:20px;
     color:rgb(19, 19, 19);
 
 }
@@ -169,7 +169,7 @@ body{
     width:40%;
     height: 80%;
     position: absolute;
-    top:19%;
+    top:13%;
     right:5%;
 }
 
@@ -177,7 +177,7 @@ body{
     width:40%;
     height:80%;
     position:absolute;
-    top:120%;
+    top:115%;
     right:65%;
 }
 
@@ -185,7 +185,7 @@ body{
     width:30%;
     height:60%;
     position:absolute;
-    top:130%;
+    top:125%;
     right:-3%;
 }
 
@@ -199,7 +199,7 @@ body{
     border-radius: 5px;
     position:relative;
     left:25px;
-    top:20px;
+    top:35px;
 }
 
 .scroll-button:hover {
@@ -215,8 +215,8 @@ body{
     border-radius: 300px;
     background-color: white;
     position: absolute; 
-    left:390px;
-    top:850px;
+    left:24%;
+    top:120%;
     width:740px;
     height: 570px;
     box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.8);

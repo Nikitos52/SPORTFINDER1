@@ -8,19 +8,19 @@
         "line":"hr",
         "liked":false,
         "share":"/pic/websites/share1.png",
-        "word":"Продолжить",
+        "continueButton":"Продолжить",
         "link":"html/basketball/lublinofbcard1.html"
     },
     {
         "photo":"pic/fb/fb4.jpg",
         "adress":"Краснодарская улица, 74к2",
-        "description":" Хорошая площадка, качественное покрытие, но низкие кольца и неправильная разметка",
+        "description":"Хорошая площадка, качественное покрытие, но низкие кольца и неправильная разметка",
         "place":"/pic/websites/placeholder.png",
         "description_img":"/pic/websites/description.png",
         "line":"hr",
         "liked":false,
         "share":"/pic/websites/share1.png",
-        "word":"Продолжить",
+        "continueButton":"Продолжить",
         "link":"html/basketball/lublinofbcard2.html"
     }
 ]
